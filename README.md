@@ -1,32 +1,5 @@
-OSCP+ | Cheatsheet
-
-![](img/profile-img.jpg)
-# [Emmanuel Solis](index-2.html)
-
-[https://www.linkedin.com/in/emmasolis/](https://www.linkedin.com/in/emmasolis/)[https://github.com/emmasolis1](https://github.com/emmasolis1)
-
-- [Home](index-2.html)
-- [Resume](resume.html)
-- [Portfolio](portfolio.html)
-- [Buy Me a Coffee](https://coff.ee/emmanuelsolis)
-- [Cheatsheets ▼](cheatsheets.html)
-- [Active Directory Pentesting](ad_pentesting.html)
-- [Mobile
-           
-    ](mobile_pentesting.html)
 
 ## OSCP+ Cheatsheet
-
-Latest update: July, 2025
-
-1. [Home](index-2.html)
-2. OSCP+ Cheatsheet
-
-**Disclaimer:** This site compiles various publicly available cheatsheets, commands,
-              and guides, along with personal edits. It is not associated with or endorsed by OffSec or any other
-              organization. If you have any concerns about the content, please review the references section. For
-              further inquiries, feel free to contact me.
-              
 
 ## 1. 🕵️‍♂️ Information Gathering
 
